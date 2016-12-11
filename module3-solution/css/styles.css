@@ -1,0 +1,37 @@
+.navbar-default .navbar-brand {
+
+	color: black;
+	font-weight: bold;
+}
+
+#menu {
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+#chicken {
+	background: aqua;
+}
+
+#chicken_title {
+	font-size: 1.65rem;
+	font-weight: bold;
+}
+
+#menu {
+	margin-bottom: 2%;
+}
+
+#bootstrap_header {
+	border: 1px solid black;
+}
+
+#nav-list {
+background: violet;	
+}
+
+#nav-list p {
+	border: 1px solid black;
+	text-align: center;
+	margin: 0px;
+}
